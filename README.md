@@ -1,3 +1,3 @@
 # Python-Classes
 
-## Repo for exploring Python classes
+Repo for exploring Python classes
