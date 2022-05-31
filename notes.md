@@ -26,3 +26,7 @@ The concrete class can implement the abstract methods. The abstract base class c
 
 abstract classes can also include attributes(variables). You can require attributes in concrete classes
 by defining them with `@abstractproperty`
+
+Base classes cannot be instantiated if they only have abstract versions of methods
+
+underscores to denote private methods
